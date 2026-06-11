@@ -89,7 +89,7 @@ transition:.3s;
 .hero-btn:hover,
 .cta-btn:hover,
 .final-btn:hover{
-transform:translateY(-3px);
+transform:translateY(-4px) scale(1.03);
 }
 
 .story,
