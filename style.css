@@ -255,3 +255,18 @@ padding:70px 0;
 }
 
 }
+
+.trust-bar{
+background:#ffffff;
+padding:20px 0;
+border-bottom:1px solid #e5e7eb;
+}
+
+.trust-bar .container{
+display:flex;
+justify-content:space-around;
+flex-wrap:wrap;
+gap:15px;
+font-weight:600;
+text-align:center;
+}
